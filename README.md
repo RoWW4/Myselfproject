@@ -1,4 +1,4 @@
 # Myselfproject
-Pequeño proyecto personal para conocerme mejor.
+Pequeño proyecto personal utilizando Bootstrap para conocerme mejor.
 
 https://roww4.github.io/Myselfproject/
