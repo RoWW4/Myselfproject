@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: cadetblue;
+  color: #ffc107;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #C3D8DA;
   text-decoration: underline;
 }
 
@@ -2561,7 +2561,7 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #17a2b8;
+  background-color: #238BC1;
   border-color: #17a2b8;
 }
 .btn-info:hover {
@@ -6292,6 +6292,8 @@ button.bg-dark:focus {
 
 .rounded-circle {
   border-radius: 50% !important;
+  border: #5F9EA0 4px dotted;
+    margin: 30px;
 }
 
 .rounded-pill {
@@ -10259,3 +10261,21 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+/*ESTILOS CSS AÑADIDOS*/
+
+a.button {
+    background-color: #ffc107;
+    color: black;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.zoom:hover{
+    transform: scale(1.2);
+    transition: transform .2s
+}
+
+/*COLORES USADOS*/
+/* #5F9EA0 -- AZUL FONDO  */
+/* #ffc107 -- AMARILLO  */
